@@ -1,46 +1,44 @@
-# Getting Started with Create React App
+# Start Up Project
+대학 스타트업 프로젝트로 진행한_ 챗 봇 사이트
+<br/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🖥️ 프로젝트 소개
+챗 봇 API를 활용하여 생성한 다양한 매체의 캐릭터들과 대화 할 수 있는 채팅 사이트입니다.
+<br/>
 
-## Available Scripts
+## ⏱개발 기간
+2023 .03 ~ 2023 .06
 
-In the project directory, you can run:
+## 사용 기술
 
-### `npm start`
+### BackEnd
+- SpringBoot
+- Java11
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Build Tool
+- IntelliJ Idea
+- Gradle
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Databasee
+- MySQL 8.0.33
 
-### `npm test`
+### FrontEnd
+- ReactJS
+- TypeScript
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Server
+- Tomcat
 
-### `npm run build`
+## WBS
+<img width="1093" alt="스크린샷 2023-09-18 오전 7 42 51" src="https://github.com/JiminGod/Start-Up-Project/assets/129360388/e04dab17-f6a9-42ae-9527-5bd308c5767a">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## System Architecture
+<img width="1092" alt="스크린샷 2023-09-18 오전 7 45 50" src="https://github.com/JiminGod/Start-Up-Project/assets/129360388/81ee3788-7215-466f-8f8d-99d5b4c589b5">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 시연
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 메인페이지
+![2023-07-06_03 28 32 (1)](https://github.com/JiminGod/Start-Up-Project/assets/129360388/1a49432a-8727-41bc-b8c5-4436ad877b19)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 채팅페이지
+<img width="497" alt="스크린샷 2023-09-18 오전 7 58 41" src="https://github.com/JiminGod/Start-Up-Project/assets/129360388/099b07a6-e502-43c2-98d1-9d644d441819">
