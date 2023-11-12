@@ -30,10 +30,10 @@
 - Tomcat
 
 ## WBS
-<img width="1089" alt="스크린샷 2023-11-12 오후 11 33 30" src="https://github.com/JiminGod/StartUp/assets/129360388/c945a4e2-2091-4caa-bbc4-8ff05996460a">
+<img width="1096" alt="스크린샷 2023-11-12 오후 11 33 17" src="https://github.com/JiminGod/StartUp/assets/129360388/65c95d8c-055c-427b-bb72-7a51536d6b50">
 
 ## System Architecture
-<img width="1096" alt="스크린샷 2023-11-12 오후 11 33 17" src="https://github.com/JiminGod/StartUp/assets/129360388/65c95d8c-055c-427b-bb72-7a51536d6b50">
+<img width="1089" alt="스크린샷 2023-11-12 오후 11 33 30" src="https://github.com/JiminGod/StartUp/assets/129360388/c945a4e2-2091-4caa-bbc4-8ff05996460a">
 
 ## 시연
 
