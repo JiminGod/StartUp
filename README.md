@@ -30,10 +30,10 @@
 - Tomcat
 
 ## WBS
-<img width="1093" alt="스크린샷 2023-09-18 오전 7 42 51" src="https://github.com/JiminGod/Start-Up-Project/assets/129360388/e04dab17-f6a9-42ae-9527-5bd308c5767a">
+<img width="1089" alt="스크린샷 2023-11-12 오후 11 33 30" src="https://github.com/JiminGod/StartUp/assets/129360388/c945a4e2-2091-4caa-bbc4-8ff05996460a">
 
 ## System Architecture
-<img width="1092" alt="스크린샷 2023-09-18 오전 7 45 50" src="https://github.com/JiminGod/Start-Up-Project/assets/129360388/81ee3788-7215-466f-8f8d-99d5b4c589b5">
+<img width="1096" alt="스크린샷 2023-11-12 오후 11 33 17" src="https://github.com/JiminGod/StartUp/assets/129360388/65c95d8c-055c-427b-bb72-7a51536d6b50">
 
 ## 시연
 
@@ -41,4 +41,4 @@
 ![2023-07-06_03 28 32 (1)](https://github.com/JiminGod/Start-Up-Project/assets/129360388/1a49432a-8727-41bc-b8c5-4436ad877b19)
 
 ### 채팅페이지
-<img width="497" alt="스크린샷 2023-09-18 오전 7 58 41" src="https://github.com/JiminGod/Start-Up-Project/assets/129360388/099b07a6-e502-43c2-98d1-9d644d441819">
+![1](https://github.com/JiminGod/StartUp/assets/129360388/3102be54-c2d3-4863-adcc-647f7b0263da)
