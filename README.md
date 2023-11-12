@@ -38,7 +38,7 @@
 ## 시연
 
 ### 메인페이지
-![2023-07-06_03 28 32](https://github.com/JiminGod/StartUp/assets/129360388/14c56f06-c370-47eb-b1cb-5ccd7cdb20d7)
+![2023-07-06_03 28 32](https://github.com/JiminGod/StartUp/assets/129360388/771a8e4c-a241-4417-bf2d-cc0fdb207a4e)
 
 ### 채팅페이지
 ![1](https://github.com/JiminGod/StartUp/assets/129360388/3102be54-c2d3-4863-adcc-647f7b0263da)
